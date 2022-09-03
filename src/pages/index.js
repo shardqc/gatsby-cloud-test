@@ -9,6 +9,7 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 import * as styles from "../components/index.module.css"
 IndexPage = () =>{
+    return(
     <Main>
         <PageHeader
             title="Photo Website"
@@ -18,7 +19,7 @@ IndexPage = () =>{
         <Heading responsive={true}>Carousel with 3 random cat photos from the Cataas API</Heading>
 
     </Main>
-    
+    );
   
 }
 
