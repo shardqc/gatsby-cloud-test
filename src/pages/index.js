@@ -18,9 +18,6 @@ IndexPage = () =>{
         <Heading responsive={true}>Carousel with 3 random cat photos from the Cataas API</Heading>
   
             <Carousel>
-                <Image src=""/>
-                <Image src=""/>
-                <Image src=""/>
             </Carousel>
 
     </Main>
