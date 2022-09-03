@@ -1,7 +1,7 @@
 import * as React from "react"
 import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
-import { PageHeader,Carousel,Heading,Image } from "grommet"
+import { PageHeader,Carousel,Heading,Image,Anchor } from "grommet"
 
 
 
